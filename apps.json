@@ -1,7 +1,7 @@
 {
     "apps" : [
-        {"name":"Cloudflare","url":"dash.cloudflare.com","icon":"mdiCloudCheck"},
-        {"name":"DigitalOcean","url":"cloud.digitalocean.com","icon":"mdiDocker"},
+        {"name":"Cloudflare","url":"dash.cloudflare.com","icon":"cloud-check"},
+        {"name":"DigitalOcean","url":"cloud.digitalocean.com","icon":"docker"},
         {"name":"Cockpit","url":"cp.example.com","icon":"airplane"},
         {"name":"Feedbin","url":"rss.example.com","icon":"rss"},
         {"name":"Filestash","url":"cloud.example.com","icon":"package"},
