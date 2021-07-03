@@ -70,11 +70,11 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 });
                 return;
 
-            case 'cloud':
+            case 'maslow':
                 setTheme({
-                    'color-background': '#f1f2f0',
-                    'color-text-pri': '#35342f',
-                    'color-text-acc': '#37bbe4'
+                    'color-background': '#121d35',
+                    'color-text-pri': '#6DC4AD',
+                    'color-text-acc': '#9D4B8E'
                 });
                 return;
 
