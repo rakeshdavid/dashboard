@@ -74,7 +74,7 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 setTheme({
                     'color-background': '#121d35',
                     'color-text-pri': '#6DC4AD',
-                    'color-text-acc': '#9D4B8E'
+                    'color-text-acc': '#eba93d'
                 });
                 return;
 
