@@ -1,7 +1,7 @@
 {
     "apps" : [
-        {"name":"Bazarr","url":"subs.example.com","icon":"message-video"},
-        {"name":"CloudCMD","url":"files.example.com","icon":"folder-multiple-outline"},
+        {"name":"Cloudflare","url":"dash.cloudflare.com","icon":"mdiCloudCheck"},
+        {"name":"DigitalOcean","url":"cloud.digitalocean.com","icon":"mdiDocker"},
         {"name":"Cockpit","url":"cp.example.com","icon":"airplane"},
         {"name":"Feedbin","url":"rss.example.com","icon":"rss"},
         {"name":"Filestash","url":"cloud.example.com","icon":"package"},
